@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TestManagementPrimarie" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-01-12T01:54:36" hostname="DESKTOP-0VSSPMM" time="0.142">
+  <properties/>
+  <testcase name="utilizatoriCombinat1()" classname="org.example.TestManagementPrimarie" time="0.041"/>
+  <testcase name="utilizatoriCombinat2()" classname="org.example.TestManagementPrimarie" time="0.007"/>
+  <testcase name="utilizatoriCombinat3()" classname="org.example.TestManagementPrimarie" time="0.008"/>
+  <testcase name="exceptieCerere1()" classname="org.example.TestManagementPrimarie" time="0.003"/>
+  <testcase name="adaugaCerere1()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <testcase name="birouCereri1()" classname="org.example.TestManagementPrimarie" time="0.006"/>
+  <testcase name="birouCereri2()" classname="org.example.TestManagementPrimarie" time="0.01"/>
+  <testcase name="birouCereri3()" classname="org.example.TestManagementPrimarie" time="0.005"/>
+  <testcase name="birouCereri4()" classname="org.example.TestManagementPrimarie" time="0.018"/>
+  <testcase name="birouCereri5()" classname="org.example.TestManagementPrimarie" time="0.007"/>
+  <testcase name="emptyOutput()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <testcase name="stergeCerere1()" classname="org.example.TestManagementPrimarie" time="0.003"/>
+  <testcase name="utilizatorCerereCombinat1()" classname="org.example.TestManagementPrimarie" time="0.003"/>
+  <testcase name="utilizatorCerereCombinat2()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <testcase name="utilizatorCerereCombinat3()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <testcase name="utilizatorCerereCombinat4()" classname="org.example.TestManagementPrimarie" time="0.003"/>
+  <testcase name="utilizatorCerereCombinat5()" classname="org.example.TestManagementPrimarie" time="0.004"/>
+  <system-out><![CDATA[Alina Popescu
+Ion Popescu
+Ina Ionescu
+Andra Functionarescu
+Cosmin Functionarescu
+Cosmin Functionarescu
+Mihai Functionarescu
+Ionel Functionarescu
+Mihai Functionarescu
+Ionel Functionarescu
+Mihai Functionarescu
+Ionel Functionarescu
+Danut Functionarescu
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
